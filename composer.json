@@ -1,5 +1,5 @@
 {
-    "name": "codeception-qrcode-module",
+    "name": "codeception/qrcode/module",
     "description": "Qrcode Module for Codeception",
     "type": "library",
     "license": "MIT",
