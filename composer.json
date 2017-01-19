@@ -1,5 +1,5 @@
 {
-    "name": "codeception/qrcode/module",
+    "name": "codeception/qrcode",
     "description": "Qrcode Module for Codeception",
     "keywords": ["qrcode", "php", "codeception", "module"],
     "type": "library",
