@@ -8,7 +8,7 @@ composer require
 ### Example (`unit.suite.yml`)
  
      modules:
-        enabled: [Mockery]
+        enabled: [QrCode]
 
 ```
 $i->seeQrCode('#contents-area-id > div > img.url', 'code');
