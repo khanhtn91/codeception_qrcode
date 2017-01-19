@@ -1,6 +1,7 @@
 {
     "name": "codeception/qrcode/module",
     "description": "Qrcode Module for Codeception",
+    "keywords": ["qrcode", "php", "codeception", "module"],
     "type": "library",
     "license": "MIT",
     "authors": [
