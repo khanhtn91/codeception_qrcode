@@ -1,8 +1,8 @@
 {
-    "name": "vcode/codeception-qrcode",
+    "name": "vietcode/codeception-qrcode",
     "type": "library",
     "description": "Qrcode Module for Codeception",
-    "keywords": ["qrcode", "php", "codeception", "module"],
+    "keywords": ["qrcode", "php", "codeception", "module", "codeception-qrcode", "vietcode"],
     "license": "MIT",
     "authors": [
         {
