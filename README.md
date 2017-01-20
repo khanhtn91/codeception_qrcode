@@ -3,7 +3,7 @@
 ## Installation 
 Use [Composer](https://getcomposer.org/):
 ```
-composer require khanhtn/qrcode
+composer require khanhtn/codeception-qrcode
 ```
 ### Example (`acceptance.suite.yml`)
  
