@@ -3,7 +3,7 @@
 ## Installation 
 Use [Composer](https://getcomposer.org/):
 ```
-composer require
+composer require khanhtn/qrcode
 ```
 ### Example (`unit.suite.yml`)
  
