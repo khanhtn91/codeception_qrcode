@@ -5,6 +5,8 @@ Use [Composer](https://getcomposer.org/):
 ```
 composer require khanhtn/codeception-qrcode
 ```
+### Usage
+```Only run by src attribute```
 ### Example (`acceptance.suite.yml`)
  
      modules:
