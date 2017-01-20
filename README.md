@@ -3,7 +3,7 @@
 ## Installation 
 Use [Composer](https://getcomposer.org/):
 ```
-composer require khanhtn/codeception-qrcode
+composer require vietcode/codeception-qrcode
 ```
 ### Usage
 ```Only run by src attribute```
