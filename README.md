@@ -11,7 +11,7 @@ composer require khanhtn/qrcode
         enabled: [QrCode]
 
 ```
-$i->seeQrCode('#contents-area-id > div > img.url', 'code');
+$i->seeQrCode('<cssSelector|xPath>', '<code>');
 ```
 ## Requirements 
 * PHP >= 5.3
