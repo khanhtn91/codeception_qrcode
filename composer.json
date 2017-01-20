@@ -1,5 +1,5 @@
 {
-    "name": "khanhtn/codeception-qrcode",
+    "name": "vcode/codeception-qrcode",
     "type": "library",
     "description": "Qrcode Module for Codeception",
     "keywords": ["qrcode", "php", "codeception", "module"],
