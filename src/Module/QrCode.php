@@ -51,11 +51,13 @@ class QrCode extends Module
      */
     private function checkQRCode()
     {
-        $qrcodeText = $this->QRCodeReader->decode($this->pathToQRCode);
-        if ($this->textQRCode == $qrcodeText) {
-            echo 'QR code right!';
+        $qrCodeText = $this->QRCodeReader->decode($this->pathToQRCode);
+        if (!$qrCodeText) {
+            echo "Images are not QR code!\n";
+        } elseif ($this->textQRCode == $qrCodeText) {
+            echo "QR code right!\n";
         } else {
-            echo 'QR code wrong!';
+            echo "QR code wrong!\n";
         }
         $this->delImage();
     }
